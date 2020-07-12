@@ -1,5 +1,3 @@
-// Name: Ernest Wang Xin Yan
-// Admin No: 192185H
 using System;
 using System.Collections.Generic;
 using System.Linq;
